@@ -1,6 +1,6 @@
 # LinkedIn Jobs Finder
 
-[Try it now !]: <https://apify.com/bebity/linkedin-jobs-scraper>
+[Try it now !][https://apify.com/bebity/linkedin-jobs-scraper>]
 
 ![header image](https://i.imgur.com/lEMRyw6.png)
 
