@@ -1,6 +1,7 @@
 # LinkedIn Jobs Finder
 
-[Try it now !][https://apify.com/bebity/linkedin-jobs-scraper]
+[Try it now !](https://apify.com/bebity/linkedin-jobs-scraper)
+
 
 ![header image](https://i.imgur.com/lEMRyw6.png)
 
@@ -24,4 +25,4 @@ Using our LinkedIn Job Search Tool is a breeze - simply enter your desired job t
 After the run you can get the jobs dataset on your desired format (JSON, CSV, HTML, ...), in dataset you will find :
 ![What's the output image](https://i.imgur.com/vaNzYwX.png)
 
-[Try it now !]: <https://apify.com/bebity/linkedin-jobs-scraper>
+[Try it now !](https://apify.com/bebity/linkedin-jobs-scraper)
